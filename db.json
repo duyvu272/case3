@@ -7,7 +7,7 @@
       "birthday": "27-02-1991",
 =======
       "name": "Tuan",
-      "birthday": 27-02-1991,
+      "birthday": "27-02-1991",
 >>>>>>> 84b845785e70c93684e0338d29b3c272f749a366
       "email": "hello",
       "phone": 1,
@@ -20,7 +20,7 @@
       "birthday": "27-02-1991",
 =======
       "name": "Trieu",
-      "birthday": 27-02-1991,
+      "birthday": "27-02-1991",
 >>>>>>> 84b845785e70c93684e0338d29b3c272f749a366
       "email": "hello",
       "phone": 1,
@@ -36,8 +36,8 @@
     },
       {
       "id": 5,
-      "name": "hello",
-      "birthday": 27-02-1991,
+      "name": "hello1",
+      "birthday": "27-02-1991",
       "email": "hello",
       "phone": 1,
       "type": "Vip"
