@@ -2,32 +2,42 @@
   "customer": [
     {
       "id": 1,
+<<<<<<< HEAD
+      "name": "Name1",
+      "birthday": "27-02-1991",
+=======
       "name": "Tuan",
-      "birthday": 27-02-1991,
+      "birthday": "27-02-1991",
+>>>>>>> 84b845785e70c93684e0338d29b3c272f749a366
       "email": "hello",
       "phone": 1,
       "type": "Vip"
     },
       {
       "id": 2,
+<<<<<<< HEAD
       "name": "Name2",
-      "birthday": 27-02-1991,
+      "birthday": "27-02-1991",
+=======
+      "name": "Trieu",
+      "birthday": "27-02-1991",
+>>>>>>> 84b845785e70c93684e0338d29b3c272f749a366
       "email": "hello",
       "phone": 1,
       "type": "Vip"
     },
       {
       "id": 3,
-      "name": "Name3",
-      "birthday": 27-02-1991,
+      "name": "Vu",
+      "birthday": "27-02-1991",
       "email": "hello",
       "phone": 1,
       "type": "Vip"
     },
       {
       "id": 5,
-      "name": "Name3",
-      "birthday": 27-02-1991,
+      "name": "hello1",
+      "birthday": "27-02-1991",
       "email": "hello",
       "phone": 1,
       "type": "Vip"
@@ -35,5 +45,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+
+  "profilee": {
+    "name": "trần minh triều"
   }
 }
